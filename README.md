@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 This looks better in dark mode 😄
 <img alt="contribution" src="https://github.com/sandjaie/sandjaie/blob/output/github-contribution-grid-snake.svg" />
 <!--
