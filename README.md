@@ -1,4 +1,8 @@
 ### Hi There 👋
+
+- 💬 Ask me about: cloud-infra/devops
+- 📫 How to reach me: sandjaie@gmail.com
+
 This looks better in dark mode 😄
 <img alt="contribution" src="https://github.com/sandjaie/sandjaie/blob/output/github-contribution-grid-snake.svg" />
 <!--
