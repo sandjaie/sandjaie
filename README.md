@@ -8,7 +8,7 @@ I like thinking from first principles: understanding the problem, designing the 
 
 Currently focused on:
 
-- Building UnitSync
+- Building UnitSync (privately)
 - Designing scalable product and platform architecture
 - Automating build, deploy, migration, monitoring, and rollback workflows
 - Using AI across development, review, testing, documentation, and operations
