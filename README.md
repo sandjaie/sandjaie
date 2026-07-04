@@ -20,11 +20,6 @@ I like building systems that are simple to operate, observable by default, and r
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandjaie/)
 [![Email](https://img.shields.io/badge/-sandjaie@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:sandjaie@gmail.com)
 
-[![Stats](https://github.com/sandjaie/sandjaie/blob/output/stats-dark.svg#gh-dark-mode-only)](https://github.com/sandjaie)
-[![Stats](https://github.com/sandjaie/sandjaie/blob/output/stats-light.svg#gh-light-mode-only)](https://github.com/sandjaie)
-[![Streak](https://github.com/sandjaie/sandjaie/blob/output/streak-dark.svg#gh-dark-mode-only)](https://github.com/sandjaie)
-[![Streak](https://github.com/sandjaie/sandjaie/blob/output/streak-light.svg#gh-light-mode-only)](https://github.com/sandjaie)
-
 This looks better in dark mode 😄
 
 <img alt="contribution" src="https://github.com/sandjaie/sandjaie/blob/output/github-contribution-grid-snake.svg" />
