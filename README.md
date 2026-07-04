@@ -2,14 +2,14 @@
 
 AI-first full-stack engineer building products and the engineering systems around them.
 
-I work across **product, architecture, cloud, DevOps, SRE, frontend, backend, automation, and observability** — with a strong focus on building reliable systems that are simple to operate and easy to scale.
+I work across **product, architecture, cloud, DevOps, SRE, frontend, backend, automation, CICD, and observability** — with a strong focus on building reliable systems that are simple to operate and easy to scale.
 
 I like thinking from first principles: understanding the problem, designing the system, shipping the product, and improving the operating model around it.
 
 Currently focused on:
 
-- Building UnitSync (privately)
-- Designing scalable product and platform architecture
+- Building UnitSync
+- Designing scalable product and platform architecture 
 - Automating build, deploy, migration, monitoring, and rollback workflows
 - Using AI across development, review, testing, documentation, and operations
 
