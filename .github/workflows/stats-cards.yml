@@ -1,0 +1,57 @@
+# Generates static GitHub stats + streak SVG cards (light and dark)
+# and commits them to the "output" branch, alongside the snake SVGs.
+# This avoids depending on any third-party hosted rendering service.
+
+name: Generate Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - name: Generate stats card (dark)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=sandjaie&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117
+          path: stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card (light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=sandjaie&show_icons=true&theme=default&hide_border=true
+          path: stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card (dark)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=sandjaie&theme=dark&hide_border=true&background=0D1117
+          path: streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak card (light)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=sandjaie&theme=default&hide_border=true
+          path: streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats-dark.svg stats-light.svg streak-dark.svg streak-light.svg
+          git commit -m "Update stats cards" || exit 0
+          git push origin output
