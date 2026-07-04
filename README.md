@@ -1,6 +1,6 @@
 # Hi, I'm Sandjaie 👋
 
-AI-first full-stack engineer building **UnitSync** and the engineering systems around it.
+AI-first full-stack engineer building apps and the engineering systems around it.
 
 I work across **product, architecture, cloud, DevOps, SRE, frontend, backend, automation, and observability** — with a strong focus on building reliable systems that are simple to operate and easy to scale.
 
