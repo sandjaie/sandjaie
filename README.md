@@ -1,6 +1,6 @@
 # Hi, I'm Sandjaie 👋
 
-AI-first full-stack engineer building apps and the engineering systems around it.
+AI-first full-stack engineer building products and the engineering systems around them.
 
 I work across **product, architecture, cloud, DevOps, SRE, frontend, backend, automation, and observability** — with a strong focus on building reliable systems that are simple to operate and easy to scale.
 
@@ -15,7 +15,7 @@ Currently focused on:
 
 I care about product thinking, engineering quality, operational simplicity, and building systems that compound over time.
 
-![AI-Native Engineering](https://img.shields.io/badge/-AI--Native%20Engineering-0d1117?style=flat-square&color=6e40c9)
+![AI-First Engineering](https://img.shields.io/badge/-AI--First%20Engineering-0d1117?style=flat-square&color=6e40c9)
 ![Agents & Automation](https://img.shields.io/badge/-Agents%20%26%20Automation-0d1117?style=flat-square&color=6e40c9)
 ![Full-Stack Engineering](https://img.shields.io/badge/-Full--Stack%20Engineering-0d1117?style=flat-square&color=1f6feb)
 ![Cloud](https://img.shields.io/badge/-Cloud-0d1117?style=flat-square&color=1f6feb)
