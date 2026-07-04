@@ -1,10 +1,19 @@
 # Hi, I'm Sandjaie 👋
 
-Engineer working across **Cloud, DevOps, SRE, backend systems, and AI-native engineering**.
+AI-first full-stack engineer building **UnitSync** and the engineering systems around it.
 
-Currently building **UnitSync** and the engineering systems around it — deployment automation, infrastructure, observability, and developer workflows.
+I work across **product, architecture, cloud, DevOps, SRE, frontend, backend, automation, and observability** — with a strong focus on building reliable systems that are simple to operate and easy to scale.
 
-I like building systems that are simple to operate, observable by default, and repeatable without heroics.
+I like thinking from first principles: understanding the problem, designing the system, shipping the product, and improving the operating model around it.
+
+Currently focused on:
+
+- Building UnitSync
+- Designing scalable product and platform architecture
+- Automating build, deploy, migration, monitoring, and rollback workflows
+- Using AI across development, review, testing, documentation, and operations
+
+I care about product thinking, engineering quality, operational simplicity, and building systems that compound over time.
 
 ![AI-Native Engineering](https://img.shields.io/badge/-AI--Native%20Engineering-0d1117?style=flat-square&color=6e40c9)
 ![Agents & Automation](https://img.shields.io/badge/-Agents%20%26%20Automation-0d1117?style=flat-square&color=6e40c9)
